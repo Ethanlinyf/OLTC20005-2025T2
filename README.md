@@ -110,6 +110,9 @@ In response, I updated my teaching approach. I added clearer instructions on res
 This experience reminded me that effective teaching must evolve with technology. Supporting students to apply AI responsibly is now integrated into how I design activities and assessments.
 
 ## Activity 14
+![alt text](image-5.png)
+
+The PAEI results (Integrator 31.6% and Administrator 30%) line up pretty closely with how I tend to teach. The Integrator side fits with me focusing on relationships, collaboration, and keeping the class feeling like a safe team space—especially important in networking/cyber where people can feel “behind” fast. The Administrator score also makes sense because I’m usually organised with plans, rubrics, step-by-step labs, and clear expectations (which students often need when concepts get technical). The lower Producer score is a good reminder though: I might not always push enough “ship it” momentum or fast delivery. A takeaway for my practice is to keep my structure and group vibe, but add more timed challenges, real incident-style tasks, and quicker checkpoints so students build urgency and confidence under pressure.
 
 ## Activity 15
 After reviewing Biggs’ three levels of thinking about teaching, I see myself increasingly aligned with the third level—teaching as educating, where effectiveness is determined by what the student does. The first level, which focuses on the student’s innate ability, positions learning as the student’s responsibility alone, while the second level places emphasis on the teacher’s actions. Both perspectives are limited because they overlook the learner’s engagement in the process. In contrast, the third level highlights that genuine learning occurs when students actively participate, interact with tasks, and construct meaning from their experiences.
