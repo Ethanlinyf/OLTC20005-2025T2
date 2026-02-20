@@ -38,3 +38,49 @@ Inclusion breaks inclusion down into three simple areas based on the provided pa
 
 ## Activity 6
 In my networking and cybersecurity classes, I use experiential learning by getting students to do real tasks first—like troubleshooting a broken network, analysing a packet capture, or responding to a fake security alert. After that, we pause and reflect: what did you notice, what worked, what didn’t, and why? Then we link it to the theory (routing, DNS, MITRE, least privilege) and try again with a new twist. With constructionism, students learn by building stuff: a secure network design, a small lab, firewall rules, or a simple SIEM dashboard—then they explain and defend their choices.
+
+## Activity 7
+| Knowles’ 5 assumptions (adult learning) | **Pedagogy (child/teacher-led)**                                                                                                 | **Andragogy (adult/learner-led)**                                                                                                                        |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1) Self-concept**                     | Learners rely on the teacher to set goals, choose content, and direct learning (“Do this because I said so / it’s on the test”). | Learners want control and choice. They prefer to plan learning with us as educators, have options, and take responsibility for progress.                             |
+| **2) Experience**                       | Learners have limited experience to draw on, so teaching often starts from scratch and uses examples chosen by the teacher.      | Learners bring lots of work/life experience. Teaching taps into what they already know, uses peer sharing, and treats experience as a learning resource. |
+| **3) Readiness to learn**               | Readiness is linked to age/grade level and external requirements (move to the next unit/year; pass assessments).                 | Readiness is linked to real-life needs and role demands (new job tasks, workplace problems, “I need this now”).                                          |
+| **4) Orientation to learning**          | Subject-centred: learn topics in a sequence (content first, application later).                                                  | Problem-centred: learn through solving authentic tasks (application first, theory when needed).                                                          |
+| **5) Motivation**                       | Motivation is often external (grades, rewards, parent/teacher approval, avoiding failure).                                       | Motivation is mostly internal (career growth, confidence, job satisfaction, quality of life, personal goals).                                            |
+
+Tasks 2: https://moodle.cqu.edu.au/mod/forum/discuss.php?d=1095032#p2205210
+
+## Activity 8
+Mezirow’s transformative learning explains how adults don’t just gain new info—they can actually change how they think. His big contribution is the idea that learning can shift a person’s “frame of reference” when they question assumptions and rethink beliefs after a challenging experience.
+
+ In **networking** and **cybersecurity**, this fits well with ethics, risk thinking, and real breach case studies that push students past “tool-only” thinking and into deeper judgement and responsibility.
+
+Gardner’s multiple intelligences challenges the idea that learners have one standard way of being “smart.” His contribution is recognising different strengths and ways of processing, so teaching should offer varied entry points and assessments.
+
+ In my classes, I can mix diagrams, labs, simulations, short videos, and written incident reports, and let students demonstrate the same outcomes in different formats.
+
+Wenger’s social learning (communities of practice) argues learning is mainly social—people learn by participating in shared practice, not just absorbing content.
+
+ This fits perfectly with cyber teamwork: run “SOC-style” group tasks, rotating roles, shared tools, peer review, and debriefs so students learn the culture and habits of real professionals.
+
+ ## Activity 9 
+ After reading both articles, my feeling on new was realising how social learning is at a brain level. I always knew relationships matter in teaching, but I didn’t fully get that the brain actually learns better when it feels safe, connected, and supported. The Berkeley article made it clear that humans are wired to learn through other humans, and that a positive teacher–student relationship can change how well students focus, cope with stress, and take risks with learning.
+
+From the neuroplasticity reading, what I didn’t really know is that learning is basically the brain rewiring itself through experience—and that this rewiring is influenced by emotion, movement, and interaction, not just “thinking hard.” The idea that the brain has priorities (like body/senses first, then emotions, then social stuff, then deep thinking) was interesting too. It explains why students shut down when they’re anxious or overwhelmed: their brain is busy protecting them, not analysing content.
+
+In my networking and cybersecurity classes, this pushes me to build more supportive group problem-solving (like troubleshooting labs in pairs) and create a low-shame vibe where mistakes are normal, because that’s where real learning and brain growth happens.
+
+## Activity 10
+![alt text](image.png)
+
+My VARK results show I’m a multimodal learner, so I naturally teach in mixed ways too. In networking and cybersecurity, this fits well because students need diagrams (topologies, threat models), explanations and discussion (troubleshooting thinking), written steps (lab guides, checklists), and hands-on practice (configs, Wireshark, SIEM queries). I don’t think I need a big change, but I do need to be more intentional. I should make sure lessons aren’t built only around how I learn, but include options for students who prefer quieter reflection or more structure.
+
+## Activity 11
+![alt text](image-1.png)
+
+With Pragmatist (13) and Theorist (10), my teaching style naturally goes: explain the “why” clearly, then show how it works in the real world. That suits networking and cybersecurity because students want skills they can actually use on the job. I probably lean on structured content, models, and step-by-step problem solving more than “jump in and wing it.”
+
+But my Activist score (3) is a reminder I might need to add more quick, hands-on moments—like timed troubleshooting, mini CTF challenges, or role-play incident response—so students practise making decisions under pressure.
+
+I don’t think I need a total change, just a better balance to meet different learner needs.
+
